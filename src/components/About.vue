@@ -30,7 +30,7 @@ const features = [
         <div class="relative">
           <div class="relative">
             <img
-              src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=professional%20vet%20doctor%20examining%20a%20cute%20cat%20in%20modern%20pet%20clinic%20warm%20lighting&image_size=portrait_4_3"
+              src="/images/about-vet.png"
               alt="专业兽医"
               class="w-full h-80 object-cover rounded-2xl shadow-xl"
             />

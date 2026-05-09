@@ -45,7 +45,7 @@
           <div class="relative w-full aspect-square max-w-lg mx-auto">
             <div class="absolute inset-0 bg-primary/20 rounded-full blur-3xl"></div>
             <img
-              src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=cute%20happy%20golden%20retriever%20puppy%20playing%20in%20a%20beautiful%20garden%20with%20flowers%2C%20warm%20sunlight%2C%20professional%20pet%20photography&image_size=portrait_4_3"
+              src="/images/hero-golden-retriever.png"
               alt="可爱的金毛犬"
               class="relative z-10 w-full h-full object-cover rounded-3xl shadow-2xl"
             />
