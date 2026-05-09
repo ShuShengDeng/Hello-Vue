@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "vue"
+  },
+  "imports": {
+    "vue": "npm:vue@3.5.32",
+    "@vitejs/plugin-vue": "npm:@vitejs/plugin-vue@6.0.6"
+  },
+  "tasks": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  }
+}
