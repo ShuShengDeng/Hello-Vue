@@ -1,0 +1,40 @@
+{
+  "hash": "4d682c4c",
+  "configHash": "5151c46a",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "55bf7362",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/.deno/vue@3.5.34/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "dafaa585",
+      "needsInterop": false
+    },
+    "vue-router/auto": {
+      "src": "../../node_modules/.deno/vue-router@4.6.4/node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router_auto.js",
+      "fileHash": "bf7bf56f",
+      "needsInterop": false
+    },
+    "vue-router/auto-routes": {
+      "src": "../../node_modules/.deno/vue-router@4.6.4/node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router_auto-routes.js",
+      "fileHash": "3d692513",
+      "needsInterop": false
+    },
+    "vuetify": {
+      "src": "../../node_modules/.deno/vuetify@3.12.6/node_modules/vuetify/lib/framework.js",
+      "file": "vuetify.js",
+      "fileHash": "0e837709",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GGLHX26B": {
+      "file": "chunk-GGLHX26B.js"
+    },
+    "chunk-5GOWKZK4": {
+      "file": "chunk-5GOWKZK4.js"
+    }
+  }
+}
