@@ -9,7 +9,9 @@
   },
   "tasks": {
     "dev": "vite",
-    "build": "vue-tsc -b && vite build",
-    "preview": "vite preview"
-  }
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "exclude": ["node_modules", "dist"]
 }
